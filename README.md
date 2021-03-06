@@ -8,11 +8,13 @@ FinTech Case Study
 * Name of company
     MARQETA
 
+![Marqeta Logo](https://images.app.goo.gl/ZJYaLsN9v11W3ZLq7)
 * When was the company incorporated?
     2009
 
 * Who are the founders of the company?
     Founder and CEO Jason Gardner
+    ![Marqeta Founder](https://live-marqeta-ms.pantheonsite.io/wp-content/uploads/2020/05/CEO-Jason-Gardner.png)
 
 * How did the idea for the company (or project) come about?
      Marqeta evolved into the world's first open API modern card issuing platform.
