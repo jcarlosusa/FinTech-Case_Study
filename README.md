@@ -8,7 +8,7 @@ FinTech Case Study
 * Name of company
     MARQETA
 
-![Marqeta Logo](https://images.app.goo.gl/2R7k1pjzHz6sUnn38)
+![Marqeta Logo](https://symbols.getvecta.com/stencil_88/34_marqeta.fcea214645.svg)
 * When was the company incorporated?
     2009
 
